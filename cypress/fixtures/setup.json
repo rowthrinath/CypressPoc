@@ -1,0 +1,4 @@
+{
+  "appUrl": "https://localhost:3000",
+  "loginObject": "button[id = qsLoginBtn]"
+}
